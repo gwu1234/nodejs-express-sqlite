@@ -10,3 +10,39 @@ technology:
 
 3) express for api routing 
 
+## install and start 
+
+1) npm install 
+
+2) npm start (node.js)
+
+## testing 
+
+1) GET 
+
+at chrome or postman 
+
+url: localhost:4000/ and localhost:4000/products 
+
+2) POST 
+
+at postman 
+
+url: localhost:4000/products 
+
+json body
+
+{
+
+   "name": "hunting jacket", 
+
+   "description": "good camo and strong",
+
+   "category_id": 1
+
+}
+
+
+
+
+
