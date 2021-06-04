@@ -14,7 +14,7 @@ technology:
 
 1) npm install 
 
-2) npm start (node.js)
+2) npm start (or node server.js)
 
 ## testing 
 
